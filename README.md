@@ -1,1 +1,1 @@
-# odin-recipes
+This is Recipes project from The Odin Project. Maybe I will write other readme in the future.
